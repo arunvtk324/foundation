@@ -9,8 +9,7 @@ int main(){
     cout<< "Enter second no"<<endl;
     cin>> sno;
     sum = fno + sno;
-    diff = fno - sno;
-    prod = fno * sno;
+   
     
     cout<< "Sum is" << sum;
     cout<< "Difference is" << diff;
